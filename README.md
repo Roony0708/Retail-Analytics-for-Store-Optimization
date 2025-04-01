@@ -53,10 +53,9 @@ The **Integrated Retail Analytics for Store Optimization** project leverages **d
 ## 📂 Folder Structure
 ```
 📦 retail-analytics
- ┣ 📂 data  # Dataset storage
- ┣ 📂 models  # Machine learning models
- ┣ 📂 scripts  # Data processing scripts
- ┣ 📜 main.py  # Application entry point
+ ┣ 📂 Data Sets  # Dataset storage
+ ┣ 📂 Document  # Machine learning models
+ ┣ 📂 Notebook  # Data processing scripts
  ┣ 📜 README.md  # Project documentation
 ```
 
